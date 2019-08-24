@@ -1,7 +1,7 @@
 {
   "name": "php-gitclient/gitclient",
   "description": "Git client for PHP, using the git cli client",
-  "license": "MIT License",
+  "license": "MIT",
   "authors": [
     {
       "name": "Haseeb A. Basil",
